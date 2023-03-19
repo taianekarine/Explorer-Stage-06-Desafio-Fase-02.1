@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Favorites </h1>
+<h1 align="center"> GitFav </h1>
 
 <p align="center">
 Projeto criado para favoritar perfil de pessoas do Github.
@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## Você pode acessar o projeto online através do link abaixo:
-
+https://gitfav-ihwg88bnd-taianekarine.vercel.app/
 
 ---
 
